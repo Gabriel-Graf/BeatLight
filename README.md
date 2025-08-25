@@ -105,8 +105,6 @@ läuft dabei im Hintergrund und aktualisiert die Lichtstimmung automatisch in ei
 
 Ein Video sagt mehr als tausend Worte. Hier ist eine kurze Demo von BeatLight in Aktion:
 
-<video height="500" controls>
-  <source src="assets/BeatLight Demo_.mp4" type="video/mp4">
-</video>
+[BeatLight Demo ansehen](assets/BeatLight Demo_.mp4)
 
 
